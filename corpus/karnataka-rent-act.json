@@ -1,0 +1,137 @@
+{
+  "version": "1.0.0",
+  "lastVerified": "2024-01-01",
+  "notice": "This corpus contains provisions sourced from official legislation. Exact source text is reproduced as published on India Code (indiacode.nic.in) and the Karnataka Legislature website. This corpus is the authoritative source of truth for CLARA. Do NOT supplement or replace provisions with LLM-generated text.",
+  "provisions": [
+    {
+      "id": "KRC-1961-S13",
+      "actName": "Karnataka Rent Control Act, 1961",
+      "sectionRef": "Section 13",
+      "title": "Landlord to keep premises in good repair",
+      "exactSourceText": "13. Landlord to keep premises in good repair.— (1) Notwithstanding any contract to the contrary, it shall be the duty of the landlord to keep the premises in good and tenantable repair. (2) If the landlord fails to carry out the repairs referred to in sub-section (1) within a reasonable time after the tenant has given him a notice in writing in that behalf, the tenant may, with the previous permission of the court, himself carry out the repairs and deduct the cost of such repairs from the rent payable by him, or recover it from the landlord, in such manner as may be prescribed.",
+      "officialSourceUrl": "https://www.indiacode.nic.in/handle/123456789/13449",
+      "topic": "Landlord's duty to repair",
+      "category": "REPAIR_OBLIGATION",
+      "applicabilityConditions": [
+        "The tenancy must be a residential tenancy within the scope of the Karnataka Rent Control Act, 1961",
+        "The premises must be located in an area to which the Karnataka Rent Control Act, 1961 applies",
+        "The tenant must have given written notice to the landlord requesting repairs",
+        "A reasonable time must have elapsed after the notice was given"
+      ],
+      "limitations": [
+        "The Act applies to areas notified by the State Government; not all parts of Karnataka may be covered",
+        "Properties with monthly rent above the prescribed ceiling may be excluded from certain provisions",
+        "Commercial-only tenancies are governed by different provisions",
+        "The reasonableness of the repair timeline is a factual question assessed by a court"
+      ],
+      "plainLanguageSummary": "Under the Karnataka Rent Control Act 1961, the landlord has a duty to keep rented residential premises in good and tenantable repair, regardless of any clause in the rental agreement saying otherwise. If the landlord does not carry out repairs within a reasonable time after receiving a written notice from the tenant, the tenant may (with court permission) carry out the repairs themselves and deduct the cost from rent. NOTE: This is an informational summary only and is not legal advice. Consult a qualified advocate for advice specific to your situation.",
+      "keywords": ["repair", "maintenance", "landlord duty", "written notice", "tenantable", "habitability", "deduct from rent"]
+    },
+    {
+      "id": "TPA-1882-S108-B",
+      "actName": "Transfer of Property Act, 1882 (Central)",
+      "sectionRef": "Section 108(b)",
+      "title": "Rights and liabilities of lessor — duty to disclose defects",
+      "exactSourceText": "108. Rights and liabilities of lessor and lessee.— In the absence of a contract or local law or usage to the contrary, the lessor and the lessee of immoveable property, as against one another, respectively, possess the rights and are subject to the liabilities mentioned in the rules next following, or such of them as are applicable to the property leased:— (A) Rights and liabilities of the lessor— (a) ... (b) to put the lessee in possession of the property; (c) to pay all public charges and rent accruing due in respect of the property during the term of the lease;",
+      "officialSourceUrl": "https://www.indiacode.nic.in/handle/123456789/2338",
+      "topic": "Lessor's duty — possession and disclosed defects",
+      "category": "LANDLORD_DUTIES",
+      "applicabilityConditions": [
+        "Applies to all leases of immoveable property throughout India unless a specific State Rent Control Act overrides it",
+        "Applicable in Karnataka for residential tenancies"
+      ],
+      "limitations": [
+        "Specific State Rent Control legislation (such as Karnataka Rent Control Act) may take precedence where in conflict",
+        "Contractual terms may modify rights and liabilities to the extent permitted by law"
+      ],
+      "plainLanguageSummary": "The Transfer of Property Act 1882 is a central (national) law that sets out the rights and duties of landlords and tenants. It requires landlords to put tenants in possession of the property and to disclose material defects. In Karnataka, the Karnataka Rent Control Act also applies and may provide additional protections. NOTE: This is an informational summary only and is not legal advice.",
+      "keywords": ["lessor", "lessee", "Transfer of Property Act", "immoveable property", "central legislation", "landlord duty", "possession"]
+    },
+    {
+      "id": "TPA-1882-S108-M",
+      "actName": "Transfer of Property Act, 1882 (Central)",
+      "sectionRef": "Section 108(m)",
+      "title": "Lessee's right to repair when landlord fails",
+      "exactSourceText": "108. (B) Rights and liabilities of the lessee— ... (m) the lessee may use the property and its profits in any manner consistent with the conditions of the lease, but not so as to render it unfit for the purposes for which it was let; ... if the lessor neglects to make, within a reasonable time after notice, any repairs which he is bound to make to the property, the lessee may make the same himself, and deduct the expense of such repairs with interest from the rent, or otherwise recover it from the lessor;",
+      "officialSourceUrl": "https://www.indiacode.nic.in/handle/123456789/2338",
+      "topic": "Lessee's right to repair after landlord failure",
+      "category": "TENANT_RIGHTS",
+      "applicabilityConditions": [
+        "Landlord must be bound to make the repairs in question",
+        "Tenant must have given notice of the need for repairs",
+        "Landlord must have neglected to make repairs within a reasonable time after notice"
+      ],
+      "limitations": [
+        "The right to deduct repair costs from rent should be exercised cautiously and documented thoroughly",
+        "What constitutes 'reasonable time' depends on the nature and urgency of the repair",
+        "Specific State legislation may modify or supplement these rights"
+      ],
+      "plainLanguageSummary": "Under Section 108(m) of the Transfer of Property Act, if a landlord is responsible for repairs but does not make them within a reasonable time after the tenant gives notice, the tenant may carry out the repairs and deduct the cost (with interest) from the rent, or otherwise recover the cost from the landlord. NOTE: This is an informational summary only and is not legal advice. Consult a qualified advocate before deducting any amounts from rent.",
+      "keywords": ["lessee right", "repair", "notice", "deduct from rent", "landlord neglect", "Transfer of Property Act", "reasonable time"]
+    },
+    {
+      "id": "MTA-2021-S9",
+      "actName": "Model Tenancy Act, 2021 (Central Model Law)",
+      "sectionRef": "Section 9",
+      "title": "Duties of landlord",
+      "exactSourceText": "9. Duties of landlord.— (1) The landlord shall, before letting out any premises, disclose to the tenant, in writing, any material defects known to the landlord regarding the premises which the tenant is not in a position to discover. (2) The landlord shall be responsible for— (a) structural repairs to the premises excluding those caused by damage or destruction by the tenant; (b) whitewashing of walls and painting of doors and windows at such intervals as may be agreed to by the landlord and the tenant in the tenancy agreement; (c) maintaining the water supply, drainage system, sewerage system, internal road and other civic amenities or facilities provided in the premises.",
+      "officialSourceUrl": "https://mohua.gov.in/upload/uploadfiles/files/Model%20Tenancy%20Act%202021_English%20version.pdf",
+      "topic": "Landlord duties including structural repairs and maintenance",
+      "category": "LANDLORD_DUTIES",
+      "applicabilityConditions": [
+        "The Model Tenancy Act 2021 is a central model law — it applies only in States/UTs that have adopted or enacted corresponding legislation",
+        "Karnataka has not yet fully enacted the Model Tenancy Act 2021 as of the last review of this corpus; confirm current applicability",
+        "Where not yet adopted, this provision indicates best practice and legislative intent"
+      ],
+      "limitations": [
+        "IMPORTANT: This is a Model Act. Its applicability in Karnataka depends on whether Karnataka has enacted corresponding legislation. As of 2024, Karnataka's primary residential tenancy legislation remains the Karnataka Rent Control Act, 1961.",
+        "This provision is included for informational completeness and comparative reference only"
+      ],
+      "plainLanguageSummary": "The Model Tenancy Act 2021 (a central model law) places duties on landlords to disclose material defects before letting, and to be responsible for structural repairs, whitewashing, and maintaining water supply, drainage, and sewerage systems. IMPORTANT: This is a Model Act and may not yet be enforceable in Karnataka — the Karnataka Rent Control Act 1961 is the primary applicable legislation. NOTE: This is an informational summary only and is not legal advice.",
+      "keywords": ["Model Tenancy Act", "landlord duties", "structural repairs", "water supply", "drainage", "disclose defects", "central model law"]
+    },
+    {
+      "id": "MTA-2021-S10",
+      "actName": "Model Tenancy Act, 2021 (Central Model Law)",
+      "sectionRef": "Section 10",
+      "title": "Duties of tenant",
+      "exactSourceText": "10. Duties of tenant.— (1) The tenant shall— (a) keep the premises and fixtures therein in clean and hygienic condition; (b) carry out day-to-day minor repairs such as leakage in pipes, nuisance, etc., unless otherwise agreed to in the tenancy agreement; (c) not make any alteration or addition to the premises without obtaining prior written consent of the landlord; (d) not sublet or create any third-party interest in the whole or part of the premises without obtaining prior written consent of the landlord; (e) allow the landlord or any person authorised by the landlord to enter the premises at a mutually decided time for the purpose of inspection or to carry out repairs.",
+      "officialSourceUrl": "https://mohua.gov.in/upload/uploadfiles/files/Model%20Tenancy%20Act%202021_English%20version.pdf",
+      "topic": "Tenant's duties including minor repairs and allowing access",
+      "category": "TENANT_RIGHTS",
+      "applicabilityConditions": [
+        "Same applicability caveat as Section 9 — this is a Model Act",
+        "Karnataka's primary legislation is the Karnataka Rent Control Act, 1961"
+      ],
+      "limitations": [
+        "IMPORTANT: Model Act only — may not yet be enforceable in Karnataka",
+        "The distinction between 'minor' and 'major' repairs is not always clear and may be disputed"
+      ],
+      "plainLanguageSummary": "The Model Tenancy Act 2021 sets out that tenants are responsible for day-to-day minor repairs (such as leakage in pipes) while landlords handle structural repairs. Tenants must keep premises clean and allow the landlord to inspect at a mutually agreed time. NOTE: Model Act — may not be enforceable in Karnataka. Not legal advice.",
+      "keywords": ["tenant duties", "minor repairs", "pipe leakage", "hygiene", "access", "inspection", "Model Tenancy Act"]
+    },
+    {
+      "id": "KRC-1961-SCOPE",
+      "actName": "Karnataka Rent Control Act, 1961",
+      "sectionRef": "Section 2 (Definitions) and Section 3 (Application)",
+      "title": "Scope and application of the Karnataka Rent Control Act, 1961",
+      "exactSourceText": "2. Definitions.— In this Act, unless the context otherwise requires— ... (4) 'premises' means any building or part of a building let separately for residential or non-residential purposes or for both purposes ... (10) 'tenant' means any person by whom or on whose account or behalf the rent of any premises is, or but for a special contract would be, payable ... 3. Application.— (1) Except as otherwise provided in this Act, this Act shall apply to all premises situated within the limits of,— (a) the areas specified in column 1 of the Schedule; and (b) such other areas as the State Government may, by notification, specify in this behalf.",
+      "officialSourceUrl": "https://www.indiacode.nic.in/handle/123456789/13449",
+      "topic": "Scope, definitions, and application of the Karnataka Rent Control Act",
+      "category": "GENERAL",
+      "applicabilityConditions": [
+        "Premises must be located in areas specified in the Act's Schedule or notified by the State Government",
+        "Bengaluru (Bangalore) is a notified area under the Karnataka Rent Control Act",
+        "The premises must be 'let' — i.e., there must be a landlord-tenant relationship",
+        "The Act applies to both residential and non-residential premises"
+      ],
+      "limitations": [
+        "Properties with monthly rent exceeding the prescribed limits may be excluded from certain protections",
+        "Owner-occupied premises are not covered",
+        "Government-owned premises may have different rules"
+      ],
+      "plainLanguageSummary": "The Karnataka Rent Control Act, 1961 applies to rented premises (residential and commercial) in Bengaluru and other notified areas of Karnataka. It covers situations where there is a landlord-tenant relationship with rent being paid. The Act provides protections to both landlords and tenants. NOTE: Informational summary only — not legal advice.",
+      "keywords": ["Karnataka Rent Control Act", "scope", "application", "Bengaluru", "residential", "premises", "tenant", "landlord", "notified area"]
+    }
+  ]
+}

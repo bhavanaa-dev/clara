@@ -1,0 +1,25 @@
+﻿{
+    "id":  "d3c0520b-5c53-44f5-a881-7de7567982f4",
+    "createdAt":  "2026-09-11T07:40:54.576Z",
+    "userNarrative":  "My ceiling has been leaking for three weeks. I informed my landlord twice through WhatsApp. He said he would send someone, but nobody came. The leak is still happening.",
+    "evidence":  [
+
+                 ],
+    "location":  "Bengaluru, Karnataka",
+    "timeline":  [
+
+                 ],
+    "extractedFacts":  [
+
+                       ],
+    "missingInformation":  [
+
+                           ],
+    "landlordNotified":  false,
+    "verificationResults":  [
+
+                            ],
+    "errorMessage":  "NVIDIA API request failed (model deepseek-ai/deepseek-v4-flash-0731, HTTP 504): ",
+    "status":  "ERROR",
+    "updatedAt":  "2026-09-11T08:25:48.218Z"
+}
