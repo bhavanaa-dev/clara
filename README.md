@@ -1,36 +1,87 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# CLARA
 
-## Getting Started
+### Turn complexity into clarity.
 
-First, run the development server:
+🚀 **Live Demo:** [clara-gold.vercel.app](https://clara-gold.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+CLARA is a Gemini-powered AI assistant that turns messy real-world problems into clear, evidence-backed action plans.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Built for the **PromptWars × TechVerse Hackathon**.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 The Problem
 
-## Learn More
+People often know that something is wrong, but don't know:
 
-To learn more about Next.js, take a look at the following resources:
+- What facts actually matter?
+- What evidence should they collect?
+- Which rules or provisions are relevant?
+- Does that rule actually apply to their situation?
+- What should they do next?
+- How do they communicate their issue clearly?
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Legal and administrative systems can be difficult to navigate because information is scattered across documents, laws, contracts, messages, photos, and timelines.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**CLARA bridges the gap between human intent and complex systems.**
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 💡 What is CLARA?
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+CLARA transforms unstructured user input into a structured **Action Packet**.
+
+A user can describe their situation in natural language and provide supporting evidence.
+
+CLARA then:
+
+1. Extracts important facts from the user's narrative.
+2. Builds a structured timeline.
+3. Organizes relevant evidence.
+4. Checks applicability against a trusted legal corpus.
+5. Connects evidence to relevant provisions.
+6. Identifies missing information.
+7. Generates a clear next-step action plan.
+8. Produces a downloadable PDF Action Packet.
+
+### Example
+
+> "My ceiling has been leaking for three weeks. I informed my landlord twice through WhatsApp. He said he would send someone, but nobody came."
+
+Instead of simply answering with generic legal advice, CLARA structures the situation into:
+
+**Facts → Timeline → Evidence → Applicable provisions → Verification → Missing information → Next action**
+
+---
+
+## 🧠 How It Works
+
+```text
+                    USER INPUT
+                        │
+          ┌─────────────┼─────────────┐
+          │             │             │
+        Text          Voice         Evidence
+          │             │             │
+          └─────────────┼─────────────┘
+                        ▼
+                FACT EXTRACTION
+                        │
+                        ▼
+              STRUCTURED TIMELINE
+                        │
+                        ▼
+              TRUSTED LEGAL CORPUS
+                        │
+                        ▼
+          DETERMINISTIC APPLICABILITY
+                        │
+                        ▼
+         EVIDENCE ↔ PROVISION CHECK
+                        │
+                        ▼
+                 ACTION PACKET
+                        │
+              ┌─────────┴─────────┐
+              ▼                   ▼
+        Human-readable UI       PDF
